@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">Welcome to my humble GitHub profile that will become bigger through the year.</p>
+<p align="center">Welcome to my humble GitHub profile.</p>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" />
