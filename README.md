@@ -27,6 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" />
   <img src="https://mobx.js.org/assets/mobx.png" alt="mobx" alt="mobx" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="storybook" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" />
+  <img src="https://www.cypress.io/icons/icon-48x48.png" alt="cypress" width="40" />
 </p>
 
 <div align="center">
