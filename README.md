@@ -21,9 +21,6 @@
   <a href="https://dotnet.microsoft.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet core" width="40" />
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="40" />
-  </a>
   <a href="https://www.javascript.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" />
   </a>
